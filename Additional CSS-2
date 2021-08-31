@@ -1,0 +1,78 @@
+#mainmenu li:last-child{
+	margin-right:20px
+}
+.vc_rows .call-to-action .btn-fx{
+	border-radius:28px !important;
+	margin-top:8px
+}
+/* rtl */
+header{  
+right: 0; left: auto;
+}
+.side-layout #contents {
+float: left;
+}
+footer{
+	float:left !important
+}
+@media screen and (max-width: 600px){
+	footer{
+	float:none !important
+	};
+}
+.wpb_row .call-to-action h3{
+	font-size:35px
+}
+@media screen and (max-width: 600px){
+	.wpb_row .call-to-action h3{
+font-size:22px !important;
+		text-align:center !important
+}
+.call-to-action .col-md-4{
+		text-align:center !important;
+}
+	.milix{
+		display:none
+	}
+}
+body{
+	background:#fff
+}
+.testi-item{
+	text-align:justify
+}
+#back-to-top.show{
+	background-color:#3d8a94
+}
+.icon_box-checked{
+	cursor:default
+}
+/* first slide */
+@media screen and (min-width: 600px){
+	.milixs{
+		display:none
+	}
+}
+/* slide */
+.footer-yellow h3{
+	font-size:30px !important
+}
+
+.footer .container.top-80 .row .col-md-6 {
+	width : 200px
+}
+.text-information {
+	font-size: 15px;
+}
+#contents{
+	text-align : justify;
+}
+.de_light a {
+	color : #2196f3;
+}
+.de_light code {
+	font-size : 100%;
+	padding : 0px;
+	background-color : #fff;
+	font-family : 'dw-Yekan';
+}
